@@ -1,31 +1,59 @@
 {
-  "totalStudents": 4,
-  "overallAverage": 88,
+  "totalStudents": 35,
+  "overallAverage": 88.08,
   "topPerformingStudent": {
-    "id": 2,
-    "name": "Bhea Fernandez",
+    "id": 16,
+    "name": "Liza Soberano",
     "year": 1,
-    "course": "BSIT",
+    "course": "BSN",
     "grades": [
-      92,
-      95,
-      90
+      96,
+      97,
+      98
     ],
     "enrolled": true,
-    "averageGrade": 92.33333333333333
+    "averageGrade": 97
   },
   "breakdownByCourse": [
     {
       "course": "BEED",
-      "averageGrade": 89.33333333333333
+      "averageGrade": 87.22
+    },
+    {
+      "course": "BSBA",
+      "averageGrade": 82.22
+    },
+    {
+      "course": "BSCE",
+      "averageGrade": 80.33
+    },
+    {
+      "course": "BSCS",
+      "averageGrade": 91.27
+    },
+    {
+      "course": "BSED",
+      "averageGrade": 90.33
+    },
+    {
+      "course": "BSEE",
+      "averageGrade": 84.33
+    },
+    {
+      "course": "BSHM",
+      "averageGrade": 89.25
     },
     {
       "course": "BSIT",
-      "averageGrade": 87.33333333333333
+      "averageGrade": 86.86
     },
     {
-      "course": "undefined",
-      "averageGrade": 0
+      "course": "BSME",
+      "averageGrade": 84.33
+    },
+    {
+      "course": "BSN",
+      "averageGrade": 94.25
     }
   ]
 }
