@@ -3,6 +3,8 @@
         "id": 1,
         "name": "Bhea Flores",
         "year": 2,
+        "course": "BSIT",
+        "grades": [92, 95, 98],
         "enrolled": true
     },
     {
@@ -10,7 +12,7 @@
         "name": "Elyzah Sait",
         "year": 1,
         "course": "BSIT",
-        "grades": [92, 95, 90],
+        "grades": [94, 95, 97],
         "enrolled": true
     },
     {
@@ -18,7 +20,7 @@
         "name": "Heart Rezaba",
         "year": 3,
         "course": "BSIT",
-        "grades": [80, 85, 82],
+        "grades": [90, 95, 82],
         "enrolled": false
     },
     {
@@ -26,7 +28,7 @@
         "name": "Andrea De Leon",
         "year": 2,
         "course": "BEED",
-        "grades": [88, 91, 89],
+        "grades": [98, 81, 91],
         "enrolled": true
     }
 ]
