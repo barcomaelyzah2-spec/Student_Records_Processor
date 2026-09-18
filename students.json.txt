@@ -1,1 +1,32 @@
-{}
+[
+    {
+        "id": 1,
+        "name": "Reniel Demafeli",
+        "year": 2,
+        "enrolled": true
+    },
+    {
+        "id": 2,
+        "name": "Cecil Maque",
+        "year": 1,
+        "course": "BSIT",
+        "grades": [92, 95, 90],
+        "enrolled": true
+    },
+    {
+        "id": 3,
+        "name": "Inri Daclan",
+        "year": 3,
+        "course": "BSIT",
+        "grades": [80, 85, 82],
+        "enrolled": false
+    },
+    {
+        "id": 4,
+        "name": "Veecemark De Jesus",
+        "year": 2,
+        "course": "BEED",
+        "grades": [88, 91, 89],
+        "enrolled": true
+    }
+]
