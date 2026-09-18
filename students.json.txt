@@ -1,32 +1,282 @@
 [
-    {
-        "id": 1,
-        "name": "Bhea Fernandez",
-        "year": 2,
-        "enrolled": true
-    },
-    {
-        "id": 2,
-        "name": "Heart Rezaba",
-        "year": 1,
-        "course": "BSIT",
-        "grades": [92, 95, 90],
-        "enrolled": true
-    },
-    {
-        "id": 3,
-        "name": "Elyzah Sait",
-        "year": 3,
-        "course": "BSIT",
-        "grades": [80, 85, 82],
-        "enrolled": false
-    },
-    {
-        "id": 4,
-        "name": "Andrea De Leon",
-        "year": 2,
-        "course": "BEED",
-        "grades": [88, 91, 89],
-        "enrolled": true
-    }
+  {
+    "id": 1,
+    "name": "Bhea Fernandez",
+    "year": 2,
+    "course": "BSCS",
+    "grades": [85, 88, 87],
+    "enrolled": true
+  },
+  {
+    "id": 2,
+    "name": "Heart Rezaba",
+    "year": 1,
+    "course": "BSIT",
+    "grades": [92, 95, 90],
+    "enrolled": true
+  },
+  {
+    "id": 3,
+    "name": "Elyzah Sait",
+    "year": 3,
+    "course": "BSIT",
+    "grades": [80, 85, 82],
+    "enrolled": false
+  },
+  {
+    "id": 4,
+    "name": "Andrea De Leon",
+    "year": 2,
+    "course": "BEED",
+    "grades": [88, 91, 89],
+    "enrolled": true
+  },
+  {
+    "id": 5,
+    "name": "Joshua Garcia",
+    "year": 4,
+    "course": "BSCS",
+    "grades": [90, 93, 91],
+    "enrolled": true
+  },
+  {
+    "id": 6,
+    "name": "Samantha Cruz",
+    "year": 1,
+    "course": "BSBA",
+    "grades": [84, 82, 86],
+    "enrolled": true
+  },
+  {
+    "id": 7,
+    "name": "Mark Santos",
+    "year": 3,
+    "course": "BSCE",
+    "grades": [78, 81, 79],
+    "enrolled": false
+  },
+  {
+    "id": 8,
+    "name": "Chloe Reyes",
+    "year": 2,
+    "course": "BSN",
+    "grades": [94, 96, 93],
+    "enrolled": true
+  },
+  {
+    "id": 9,
+    "name": "Daniel Padilla",
+    "year": 4,
+    "course": "BSIT",
+    "grades": [87, 89, 85],
+    "enrolled": true
+  },
+  {
+    "id": 10,
+    "name": "Kathryn Bernardo",
+    "year": 3,
+    "course": "BSED",
+    "grades": [91, 94, 95],
+    "enrolled": true
+  },
+  {
+    "id": 11,
+    "name": "Gabriel Mendoza",
+    "year": 1,
+    "course": "BSME",
+    "grades": [83, 85, 80],
+    "enrolled": true
+  },
+  {
+    "id": 12,
+    "name": "Bea Alonzo",
+    "year": 2,
+    "course": "BSHM",
+    "grades": [89, 87, 90],
+    "enrolled": false
+  },
+  {
+    "id": 13,
+    "name": "James Reid",
+    "year": 4,
+    "course": "BSBA",
+    "grades": [76, 80, 82],
+    "enrolled": true
+  },
+  {
+    "id": 14,
+    "name": "Nadine Lustre",
+    "year": 2,
+    "course": "BSCS",
+    "grades": [95, 92, 94],
+    "enrolled": true
+  },
+  {
+    "id": 15,
+    "name": "Enrique Gil",
+    "year": 3,
+    "course": "BSEE",
+    "grades": [82, 84, 81],
+    "enrolled": true
+  },
+  {
+    "id": 16,
+    "name": "Liza Soberano",
+    "year": 1,
+    "course": "BSN",
+    "grades": [96, 97, 98],
+    "enrolled": true
+  },
+  {
+    "id": 17,
+    "name": "Alden Richards",
+    "year": 4,
+    "course": "BSIT",
+    "grades": [88, 90, 87],
+    "enrolled": false
+  },
+  {
+    "id": 18,
+    "name": "Maine Mendoza",
+    "year": 2,
+    "course": "BEED",
+    "grades": [86, 89, 88],
+    "enrolled": true
+  },
+  {
+    "id": 19,
+    "name": "Paulo Avelino",
+    "year": 3,
+    "course": "BSCE",
+    "grades": [81, 79, 84],
+    "enrolled": true
+  },
+  {
+    "id": 20,
+    "name": "Janella Salvador",
+    "year": 1,
+    "course": "BSHM",
+    "grades": [90, 92, 89],
+    "enrolled": true
+  },
+  {
+    "id": 21,
+    "name": "Robby Domingo",
+    "year": 2,
+    "course": "BSBA",
+    "grades": [85, 83, 86],
+    "enrolled": true
+  },
+  {
+    "id": 22,
+    "name": "Kim Chiu",
+    "year": 4,
+    "course": "BSED",
+    "grades": [89, 91, 92],
+    "enrolled": false
+  },
+  {
+    "id": 23,
+    "name": "Xian Lim",
+    "year": 3,
+    "course": "BSME",
+    "grades": [84, 86, 88],
+    "enrolled": true
+  },
+  {
+    "id": 24,
+    "name": "Julia Barretto",
+    "year": 1,
+    "course": "BSCS",
+    "grades": [91, 89, 93],
+    "enrolled": true
+  },
+  {
+    "id": 25,
+    "name": "Gerald Anderson",
+    "year": 2,
+    "course": "BSIT",
+    "grades": [79, 82, 80],
+    "enrolled": true
+  },
+  {
+    "id": 26,
+    "name": "Francine Diaz",
+    "year": 1,
+    "course": "BSN",
+    "grades": [93, 95, 94],
+    "enrolled": true
+  },
+  {
+    "id": 27,
+    "name": "Seth Fedelin",
+    "year": 2,
+    "course": "BEED",
+    "grades": [82, 85, 84],
+    "enrolled": false
+  },
+  {
+    "id": 28,
+    "name": "Andrea Brillantes",
+    "year": 1,
+    "course": "BSHM",
+    "grades": [88, 90, 87],
+    "enrolled": true
+  },
+  {
+    "id": 29,
+    "name": "Ricci Rivero",
+    "year": 3,
+    "course": "BSBA",
+    "grades": [77, 80, 83],
+    "enrolled": true
+  },
+  {
+    "id": 30,
+    "name": "Belle Mariano",
+    "year": 2,
+    "course": "BSCS",
+    "grades": [96, 94, 97],
+    "enrolled": true
+  },
+  {
+    "id": 31,
+    "name": "Donny Pangilinan",
+    "year": 3,
+    "course": "BSIT",
+    "grades": [90, 92, 91],
+    "enrolled": true
+  },
+  {
+    "id": 32,
+    "name": "Kyline Alcantara",
+    "year": 1,
+    "course": "BSED",
+    "grades": [87, 86, 89],
+    "enrolled": false
+  },
+  {
+    "id": 33,
+    "name": "Miguel Tanfelix",
+    "year": 4,
+    "course": "BSEE",
+    "grades": [85, 88, 86],
+    "enrolled": true
+  },
+  {
+    "id": 34,
+    "name": "Bianca Umali",
+    "year": 2,
+    "course": "BSN",
+    "grades": [92, 91, 94],
+    "enrolled": true
+  },
+  {
+    "id": 35,
+    "name": "Darren Espanto",
+    "year": 3,
+    "course": "BSHM",
+    "grades": [89, 87, 91],
+    "enrolled": true
+  }
 ]
