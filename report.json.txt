@@ -1,54 +1,31 @@
 {
-  "summary": {
-    "totalStudents": 4,
-    "totalEnrolled": 3,
-    "totalUnenrolled": 1,
-    "overallAverage": 92.33,
-    "topPerformer": {
-      "name": "Elyzah Sait",
-      "average": 95.33
-    },
-    "courseBreakdown": {
-      "BSIT": 3,
-      "BEED": 1
-    }
+  "totalStudents": 4,
+  "overallAverage": 88,
+  "topPerformingStudent": {
+    "id": 2,
+    "name": "Bhea Flores",
+    "year": 1,
+    "course": "BSIT",
+    "grades": [
+      92,
+      95,
+      90
+    ],
+    "enrolled": true,
+    "averageGrade": 92.33333333333333
   },
-  "students": [
+  "breakdownByCourse": [
     {
-      "id": 1,
-      "name": "Bhea Flores",
-      "year": 2,
-      "course": "BSIT",
-      "averageGrade": 95.0,
-      "enrolled": true,
-      "academicStatus": "Passed"
-    },
-    {
-      "id": 2,
-      "name": "Elyzah Sait",
-      "year": 1,
-      "course": "BSIT",
-      "averageGrade": 95.33,
-      "enrolled": true,
-      "academicStatus": "Passed"
-    },
-    {
-      "id": 3,
-      "name": "Heart Rezaba",
-      "year": 3,
-      "course": "BSIT",
-      "averageGrade": 89.0,
-      "enrolled": false,
-      "academicStatus": "Inactive"
-    },
-    {
-      "id": 4,
-      "name": "Andrea De Leon",
-      "year": 2,
       "course": "BEED",
-      "averageGrade": 90.0,
-      "enrolled": true,
-      "academicStatus": "Passed"
+      "averageGrade": 89.33333333333333
+    },
+    {
+      "course": "BSIT",
+      "averageGrade": 87.33333333333333
+    },
+    {
+      "course": "undefined",
+      "averageGrade": 0
     }
   ]
 }
