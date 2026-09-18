@@ -3,7 +3,7 @@
   "overallAverage": 88,
   "topPerformingStudent": {
     "id": 2,
-    "name": "Bhea Flores",
+    "name": "Bhea Fernandez",
     "year": 1,
     "course": "BSIT",
     "grades": [
