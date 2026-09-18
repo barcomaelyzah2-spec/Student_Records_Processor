@@ -1,4 +1,5 @@
 const fs = require('fs');
+
 // Input student data
 const students = [
   {
