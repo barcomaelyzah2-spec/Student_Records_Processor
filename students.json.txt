@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "name": "Reniel Demafeli",
+        "name": "Bhea Flores",
         "year": 2,
         "enrolled": true
     },
     {
         "id": 2,
-        "name": "Cecil Maque",
+        "name": "Elyzah Sait",
         "year": 1,
         "course": "BSIT",
         "grades": [92, 95, 90],
@@ -15,7 +15,7 @@
     },
     {
         "id": 3,
-        "name": "Inri Daclan",
+        "name": "Heart Rezaba",
         "year": 3,
         "course": "BSIT",
         "grades": [80, 85, 82],
@@ -23,7 +23,7 @@
     },
     {
         "id": 4,
-        "name": "Veecemark De Jesus",
+        "name": "Andrea De Leon",
         "year": 2,
         "course": "BEED",
         "grades": [88, 91, 89],
